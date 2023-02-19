@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    background-color: rgb(4, 0, 34);
+    margin: 0;
+  }
+   
+main {
+    position: relative;
+    min-height: 1080px;
+}
+
+header {
+  height: 300px;
+}
+   
+h1 {
+  color:rgb(225, 225, 225);
+  font-weight: 200;
+  font-size: 40px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+h2 {
+  color: rgb(167, 167, 167);
+  font-weight: 100;
+  width: fit-content;
+  margin: 0 auto 90px;
+}
+
+p {
+  color: wheat;
+  font-weight: 100;
+  text-align: center;
+}  
